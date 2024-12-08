@@ -1,3 +1,12 @@
+App Output:
+# Initial State
+<img width="1457" alt="Initial state" src="https://github.com/user-attachments/assets/ac1288ae-4e8a-4e34-a600-676c780903aa">
+
+# Add and Delete Note
+<img width="1416" alt="Add and delete note" src="https://github.com/user-attachments/assets/79983741-680c-40e6-b0bd-c3696f4ac300">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
